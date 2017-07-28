@@ -1,0 +1,19 @@
+{
+  "name": "pinterest",
+  "version": "1.0.0",
+  "description": "\"Sitio web Pinterest\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016Error: no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kariambar/pinterest.git"
+  },
+  "author": "Karina Palacios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kariambar/pinterest/issues"
+  },
+  "homepage": "https://github.com/kariambar/pinterest#readme"
+}
