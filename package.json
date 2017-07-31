@@ -1,10 +1,10 @@
 {
   "name": "pinterest",
   "version": "1.0.0",
-  "description": "\"Sitio web Pinterest\"",
-  "main": "index.js",
+  "description": "Proyecto Final- Pinterest\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[D- \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bPinterest",
+  "main": "gulpfile.js",
   "scripts": {
-    "test": "\u0016Error: no test specified"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/kariambar/pinterest/issues"
   },
-  "homepage": "https://github.com/kariambar/pinterest#readme"
+  "homepage": "https://github.com/kariambar/pinterest#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
 }
