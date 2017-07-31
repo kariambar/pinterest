@@ -15,10 +15,14 @@ El proyecto fue realizado con las siguientes dependencias NPM:
 
 + Dependencias de Producción 
   - jQuery `~v.3.1.1`
-  - Materialize `~v.0.97.8`
+  - Bootstrap `~v.3.3.7`
 
 ### Levantamiento ambiente de desarrollo
 
 + Clonar repositorio.
 + Posicionado en nuestro proyecto hacer correr `npm install`para descargar e instalar todas las dependencias utilizadas.
 + Correr gulp para que se realizen las tareas especificadas.
++ Hcaer el HTML con el nav + el div que contiene todas las fotos
++ Agregar el Json a la variable data 
++ Agregar las funciones para recorrer el Json en el archivo Main.js
++ Agregar el modal 
